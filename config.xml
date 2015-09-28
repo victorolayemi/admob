@@ -13,7 +13,7 @@ xmlns:gap="http://phonegap.com/ns/1.0"
     <access origin="*" />
 
     <preference name="permissions" value="none"/>
-    <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io" />
+    <gap:plugin name="cordova-plugin-admobpro" source="npm" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
