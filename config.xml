@@ -13,6 +13,7 @@ xmlns:gap="http://phonegap.com/ns/1.0"
     <access origin="*" />
 
     <preference name="permissions" value="none"/>
+    <preference name="android-build-tool" value="gradle" /> 
     <gap:plugin name="cordova-plugin-admobpro" source="npm" />
 
     <!-- Customize your app and platform with the preference element. -->
